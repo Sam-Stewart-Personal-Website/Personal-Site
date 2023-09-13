@@ -107,7 +107,7 @@ button:hover {
     justify-content: center;
 }
 
-img {
+.sam {
     position: absolute;
     width: 250px;
     left: 150px;
@@ -149,3 +149,72 @@ img {
     color: aliceblue;
     font-size: 20px;
 }
+
+.heading2 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    top: 130px;
+}
+
+.sage {
+    position: absolute;
+    width: 250px;
+    left: 150px;
+    top: 220px;
+}
+
+.overdose {
+    position: absolute;
+    width: 250px;
+    right: 150px;
+    top: 500px;
+}
+
+.proj1 {
+    position: absolute;
+    left: 500px;
+    top: 220px;
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.p4 {
+    position: absolute;
+    left: 475px;
+    top: 300px;
+    right: 150px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+hr {
+    border: 1px solid aliceblue;
+    border-radius: 1px;
+    position: absolute;
+    top: 480px;
+    left: 140px;
+    right: 140px;
+  }
+
+.proj2 {
+    position: absolute;
+    left: 240px;
+    top: 500px;
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.p5 {
+    position: absolute;
+    left: 150px;
+    top: 580px;
+    right: 475px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+

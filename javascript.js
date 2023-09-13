@@ -1,0 +1,1 @@
+alert ("If you would like to support me better follow my instagram by clicking on the contact button!")
