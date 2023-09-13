@@ -98,3 +98,54 @@ button:hover {
     background-color: rgb(23, 125, 125);
 }
 
+.aboutbody {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(41, 45, 48, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    position: absolute;
+    width: 250px;
+    left: 150px;
+    top: 200px;
+}
+
+.heading1 {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    right: 150px;
+    color: white;
+    font-size: 30px;
+}
+
+.p1 {
+    position: absolute;
+    left: 475px;
+    top: 250px;
+    right: 150px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.p2 {
+    position: absolute;
+    left: 475px;
+    right: 150px;
+    top: 360px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.p3 {
+    position: absolute;
+    left: 475px;
+    right: 150px;
+    top: 470px;
+    color: aliceblue;
+    font-size: 20px;
+}
